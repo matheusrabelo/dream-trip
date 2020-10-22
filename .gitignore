@@ -1,7 +1,6 @@
 static/index.js
 static/style.css
 static/index.html
-static/models/readme.md
 dist/
 node_modules/
 .cache/
