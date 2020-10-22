@@ -1,0 +1,27 @@
+[
+    {
+        "name": "South Korea",
+        "slug": "south-korea",
+        "url": "https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80"
+    },
+    {
+        "name": "California",
+        "slug": "california",
+        "url": "https://images.unsplash.com/photo-1499310226026-b9d598980b90?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+    },
+    {
+        "name": "Hong Kong",
+        "slug": "hong-kong",
+        "url": "https://images.unsplash.com/photo-1532455935509-eb76842cee50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80"
+    },
+    {
+        "name": "Dubai",
+        "slug": "dubai",
+        "url": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+        "name": "Rio de Janeiro",
+        "slug": "rio-de-janeiro",
+        "url": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=798&q=80"
+    }
+]
